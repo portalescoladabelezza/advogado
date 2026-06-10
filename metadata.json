@@ -1,0 +1,6 @@
+{
+  "name": "Moura & Almeida Advocacia",
+  "description": "Página modelo premium e institucional para escritórios de advocacia e advogados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
